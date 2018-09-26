@@ -1,7 +1,6 @@
 package cz.misina;
 
 import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
@@ -36,4 +35,5 @@ class FirstTest {
 
         assertEquals(40, hello.getAge());
     }
+
 }
